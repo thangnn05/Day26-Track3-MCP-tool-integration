@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+implementation/lab.db
+implementation/.npm-cache/
+.pytest_cache/
